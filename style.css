@@ -16,7 +16,7 @@ Tags: one-column,two-columns,right-sidebar,custom-background,custom-menu,feature
 GLOBAL STYLES                 
 **********************************/
 
-body{background-image:url(assets/images/bg.jpg); background-repeat: repeat; background-attachment: fixed; background-position: top center;font-family: 'Open Sans', sans-serif;font-weight:400; font-size:14px;color:#000;line-height: 1.7em;background-color:transparent;}
+body{background-image:url(assets/images/bg.jpg); background-repeat: repeat; background-attachment: fixed; background-position: top center;font-family: 'Open Sans', sans-serif;font-weight:400; font-size:14px;color:rgb(120, 186, 252);line-height: 1.7em;background-color:transparent;}
 
 
 /** LINKS **/
